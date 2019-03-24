@@ -1,2 +1,7 @@
-# Crud en PHP haciendo uso de PDO
-## Se hace uso de PDO para conectarse a Postgres
+# Crud en PHP 
+Implementación de un Crud con PDO.
+PDO utilizado para conectarse al
+gestor de base de datos Postgres
+para realizar operaciones básicas
+###
+
